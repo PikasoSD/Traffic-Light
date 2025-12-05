@@ -27,5 +27,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ---
 
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
